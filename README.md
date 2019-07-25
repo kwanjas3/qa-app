@@ -1,7 +1,7 @@
 # some-qa-app
 
 
-this app requires a localhost:18765 proxy with cors enabled to work. It will posted a pseudo filled out form to retrieve a webpage with links to be tested.
+this app requires a localhost:18765 proxy with cors enabled to work. It will post a pseudo filled out form to retrieve a webpage with links to be tested.
 
 
 check to see if link exists. check link similarity to contents within the website link using lunr and returns a score.
