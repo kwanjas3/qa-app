@@ -1,4 +1,4 @@
-# mxl-qa
+# some-qa-app
 
 ## Project setup
 ```
